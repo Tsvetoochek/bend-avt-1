@@ -1,0 +1,7 @@
+.idea/
+.vc/
+node_modules/
+
+Thumbs.db
+dektop.ini
+package-lock.json
